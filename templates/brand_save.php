@@ -1,0 +1,1 @@
+<p><?php echo $_GET['name'] ?> saved successfully.</p>
