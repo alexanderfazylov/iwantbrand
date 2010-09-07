@@ -23,7 +23,7 @@
 	
 	$template = new Template($registry);
 	
-	$registry->set('template', $template);
+	$registry->set('template', $template);  
 	
 	$router->setPath (site_path . 'controllers');
 	
